@@ -1,0 +1,32 @@
+{
+    "Nuovo 10X": {
+        "prezzo": 2,
+        "vincita_massima": 100000,
+        "percentuale_vincenti": 24.07,
+        "vincite": {
+            "fino a 500": 0.24096385542168672,
+            "da 501 a 10000": 1.354165820313029e-06,
+            "oltre 10000": 1.0416666666666667e-07
+        }
+    },
+    "Nuovo 20X": {
+        "prezzo": 5,
+        "vincita_massima": 500000,
+        "percentuale_vincenti": 23.83,
+        "vincite": {
+            "fino a 500": 0.13850415512465375,
+            "da 501 a 10000": 3.361683531112381e-05,
+            "oltre 10000": 2.840909090909091e-07
+        }
+    },
+    "Nuovo 50X": {
+        "prezzo": 10,
+        "vincita_massima": 2000000,
+        "percentuale_vincenti": 25.21,
+        "vincite": {
+            "fino a 500": 0.3460207612456747,
+            "da 501 a 10000": 0.001310615989515072,
+            "oltre 10000": 5.649717514124293e-07
+        }
+    }
+}
